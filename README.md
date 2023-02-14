@@ -1,5 +1,7 @@
 # vue-furniture
 
+![alt text](https://github.com/gaberial31/vue-furniture-shop/blob/main/demo.png)
+
 ## Project setup
 ```
 npm install
